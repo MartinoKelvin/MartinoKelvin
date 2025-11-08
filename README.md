@@ -22,6 +22,10 @@
 
 ---
 
+<p><img align="bottom" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinoKelvin&theme=react-dark" alt="reannn22"/></p>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartinoKelvin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MartinoKelvin&theme=tokyonight&hide_border=false)<br/>
